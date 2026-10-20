@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pillow
+onnx
+onnxscript
+onnxruntime
+python==3.9.6
